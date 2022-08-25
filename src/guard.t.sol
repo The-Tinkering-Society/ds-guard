@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-3.0-or-later
 // guard.t.sol -- tests for guard.sol
 
 // Copyright (C) 2017  DappHub, LLC
